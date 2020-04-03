@@ -14,5 +14,5 @@ public class CgbSboot01Application {
 		//1)对系统进行默认配置(由spring boot的自动配置机制设计和实现)
 		//2)扫描启动类所在包以及子包中的类，然后进行加载，配置，初始化。
 		SpringApplication.run(CgbSboot01Application.class, args);
-	}
+	}//klklklkl
 }
